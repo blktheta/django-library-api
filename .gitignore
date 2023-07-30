@@ -1,0 +1,7 @@
+.venv/
+__pycahce__/
+staticfiles/
+*.pyc
+*.sqlite3
+.env
+tags
